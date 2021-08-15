@@ -1,0 +1,49 @@
+[
+  {
+    "ano-referencia": 2011,
+    "desconto-teto": 405.86,
+    "salario-aliquota": [
+      {
+        "faixa-inicial": 0,
+        "faixa-final": 1106.90,
+        "aliquota": 8
+      },
+      {
+        "faixa-inicial": 1106.91,
+        "faixa-final": 1844.83,
+        "aliquota": 9
+      },
+      {
+        "faixa-inicial": 1844.84,
+        "faixa-final": 3689.66,
+        "aliquota": 11
+      }
+    ]
+  },
+  {
+    "ano-referencia": 2012,
+    "desconto-teto": 500,
+    "salario-aliquota": [
+      {
+        "faixa-inicial": 0,
+        "faixa-final": 1000.00,
+        "aliquota": 7
+      },
+      {
+        "faixa-inicial": 1000.01,
+        "faixa-final": 1500,
+        "aliquota": 8
+      },
+      {
+        "faixa-inicial": 1500.01,
+        "faixa-final": 3000,
+        "aliquota": 9
+      },
+      {
+        "faixa-inicial": 3000.01,
+        "faixa-final": 4000.00,
+        "aliquota": 11
+      }
+    ]
+  }
+]
